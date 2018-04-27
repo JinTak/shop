@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
+    "go": "ng serve --open --port 5000",
     "start": "ng serve",
     "build": "ng build --prod",
     "test": "ng test",
